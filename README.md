@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   <a href="https://anjoo.tistory.com/">
-    <img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=Tstory&logoColor=white">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
 </div>
 
