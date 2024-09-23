@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=anjoo-k's%20github&fontSize=70)
 <!--
 **anjoo-k/anjoo-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=anjoo-k's%20github&fontSize=70)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo-k&layout=compact)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anjoo)](https://solved.ac/anjoo/)
 
 ![anjoo-k's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjoo-k&show_icons=true&theme=radical)
