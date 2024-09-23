@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo-k&layout=compact)
-![Anjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Anjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjoo&show_icons=true&theme=radical)
