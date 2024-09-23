@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo-k&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anjoo)](https://solved.ac/anjoo/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knjou92)](https://solved.ac/knjou92/)
 
 ![anjoo-k's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjoo-k&show_icons=true&theme=radical)
