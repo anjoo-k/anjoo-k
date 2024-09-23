@@ -1,4 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
 
 <!--
 **anjoo-k/anjoo-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo-k&layout=compact)
 
-![Anjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjoo-k&show_icons=true&theme=radical)
+![anjoo-k's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjoo-k&show_icons=true&theme=radical)
