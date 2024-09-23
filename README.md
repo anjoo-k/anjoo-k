@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<br>
+
 <div align=center><h2>📚 STACKS</h2></div>
 
 <div align=center>
@@ -47,14 +49,11 @@ Here are some ideas to get you started:
 
 <div align=center> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo-k&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo-k&layout=compact)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anjoo)](https://solved.ac/anjoo/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anjoo)](https://solved.ac/anjoo/)
-
+<!--
 ![anjoo-k's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjoo-k&show_icons=true&theme=dark)
-
-
-
+-->
 </div>
 
 
